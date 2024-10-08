@@ -1,7 +1,7 @@
 ---
 ---
 
-# Carbon | Nature | Water | Poo
+# Carbon  |  Nature  |  Water  |  Poo
 
 {% capture text %}
 
