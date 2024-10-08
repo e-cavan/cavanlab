@@ -3,6 +3,7 @@
 
 # Carbon | Nature | Water | Poo
 
+{% include figure.html image="images/head.jpg" %}
 
 
 {% include section.html %}
