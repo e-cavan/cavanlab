@@ -7,27 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is based at Imperial College London, at the Silwood Park Campus in Berkshire, UK.
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="e.cavan@imperial.ac.uk"
+  link="mailto:e.cavan@imperial.ac.uk"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Imperial+College+London+Silwood+Park/@51.4091266,-0.6392096,15z/data=!4m2!3m1!1s0x0:0x8edfe0a7d58c9480?sa=X&ved=1t:2428&ictx=111"
 %}
 
 {% include section.html %}
