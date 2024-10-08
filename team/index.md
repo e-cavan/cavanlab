@@ -22,7 +22,6 @@ Gone but not forgotten!
 
 {% include list.html data="alumni" component="portrait" filters="role: ^(?!pi$)" %}
 
-
 {% include section.html %}
 
 {% capture content %}
