@@ -11,7 +11,7 @@ Our group is based at Imperial College London, at the Silwood Park Campus in Ber
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/ICL.png"
   caption="Lorem ipsum"
 %}
 
@@ -29,14 +29,13 @@ Our group is based at Imperial College London, at the Silwood Park Campus in Ber
   link="https://www.google.com/maps/place/Imperial+College+London+Silwood+Park/@51.4091266,-0.6392096,15z/data=!4m2!3m1!1s0x0:0x8edfe0a7d58c9480?sa=X&ved=1t:2428&ictx=111"
 %}
 
-{% include section.html %}
+{% include section.html dark=true %}
 
 {% capture col1 %}
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/EFS.jpg"
 %}
 
 {% endcapture %}
@@ -45,32 +44,10 @@ Our group is based at Imperial College London, at the Silwood Park Campus in Ber
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/DOSI.jpg"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
