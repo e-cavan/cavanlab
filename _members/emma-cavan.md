@@ -1,6 +1,6 @@
 ---
 name: Emma Cavan
-image: images/Profile_pic_2022/3.jpg
+image: images/profile_pic_20223.jpg
 role: pi
 affiliation: Imperial College London
 aliases:
