@@ -27,7 +27,7 @@ Gone but not forgotten!
 {% capture content %}
 
 {% include figure.html image="images/IMG_0786.JPG" %}
-{% include figure.html image="images/IMG_0786.JPG" %}
+{% include figure.html image="images/IMG_2322.JPG" %}
 {% include figure.html image="images/krill.jpg" %}
 
 {% endcapture %}
