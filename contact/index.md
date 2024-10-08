@@ -45,7 +45,7 @@ Our group is based at Imperial College London, at the Silwood Park Campus in Ber
 
 {%
   include figure.html
-  image="images/bbb_day.jpg"
+  image="images/bbb_day.png"
 %}
 
 {% endcapture %}
