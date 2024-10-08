@@ -1,174 +1,366 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41467-024-52135-6
+  title: Antarctic krill sequester similar amounts of carbon to key coastal blue carbon
+    habitats
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - E. L. Cavan
+  - N. Mackay
+  - S. L. Hill
+  - A. Atkinson
+  - A. Belcher
+  - A. Visser
+  publisher: Nature Communications
+  date: '2024-09-08'
+  link: https://doi.org/g7pt8h
+  orcid: 0000-0003-1099-6705
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s41561-024-01516-z
+  title: 'Author Correction: Uncertain response of ocean biological carbon export
+    in a changing world'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Stephanie A. Henson
+  - "Charlotte Laufk\xF6tter"
+  - Shirley Leung
+  - Sarah L. C. Giering
+  - Hilary I. Palevsky
+  - Emma L. Cavan
+  publisher: Nature Geoscience
+  date: '2024-07-29'
+  link: https://doi.org/g7pt8j
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2024GB008156
+  title: Observational and Numerical Modeling Constraints on the Global Ocean Biological
+    Carbon Pump
+  authors:
+  - Scott C. Doney
+  - Kayla A. Mitchell
+  - Stephanie A. Henson
+  - Emma Cavan
+  - Tim DeVries
+  - Nicolas Gruber
+  - Judith Hauck
+  - Colleen B. Mouw
+  - "Jens D. M\xFCller"
+  - Francois W. Primeau
+  publisher: Global Biogeochemical Cycles
+  date: '2024-07-01'
+  link: https://doi.org/g7pt8n
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s44183-024-00053-x
+  title: Good fisheries management is good carbon management
+  authors:
+  - Natalie F. Andersen
+  - Emma L. Cavan
+  - William W. L. Cheung
+  - Angela H. Martin
+  - Grace K. Saba
+  - U. Rashid Sumaila
+  publisher: npj Ocean Sustainability
+  date: '2024-03-21'
+  link: https://doi.org/g7pt8r
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/essoar.170983384.44030316/v1
+  title: Observational and numerical modeling constraints on the global ocean biological
+    carbon pump
+  authors:
+  - Scott C. Doney
+  - Kayla Alexis Mitchell
+  - Stephanie Anne Henson
+  - Emma L Cavan
+  - Timothy DeVries
+  - Nicolas Gruber
+  - Judith Hauck
+  - Colleen B. Mouw
+  - "Jens Daniel M\xFCller"
+  - Francois W. Primeau
+  publisher: Authorea, Inc.
+  date: '2024-03-07'
+  link: https://doi.org/g7pt8v
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43017-023-00504-y
+  title: Climate change impacts on Antarctic krill behaviour and population dynamics
+  authors:
+  - So Kawaguchi
+  - Angus Atkinson
+  - Dominik Bahlburg
+  - Kim S. Bernard
+  - Emma L. Cavan
+  - Martin J. Cox
+  - Simeon L. Hill
+  - Bettina Meyer
+  - Devi Veytia
+  publisher: Nature Reviews Earth &amp; Environment
+  date: '2023-12-19'
+  link: https://doi.org/g7pt8w
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.13.562177
+  title: Valuing carbon sequestration by Antarctic krill faecal pellets
+  authors:
+  - E. L. Cavan
+  - N. Mackay
+  - S.L. Hill
+  - A. Atkinson
+  - A. Belcher
+  - A. Visser
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-10-17'
+  link: https://doi.org/g7pt82
+  orcid: 0000-0003-1099-6705
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1029/2023GB007742
+  title: Concepts Toward a Global Mechanistic Mapping of Ocean Carbon Export
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - "Emmanuel C. Laurenceau\u2010Cornec"
+  - Mathieu Mongin
+  - Thomas W. Trull
+  - Matthieu Bressac
+  - Emma L. Cavan
+  - Lennart T. Bach
+  - "Fr\xE9d\xE9ric A. C. Le Moigne"
+  - "Fr\xE9d\xE9ric Planchon"
+  - Philip W. Boyd
+  publisher: Global Biogeochemical Cycles
+  date: '2023-09-01'
+  link: https://doi.org/g7pt85
+  orcid: 0000-0003-1099-6705
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41561-022-00927-0
+  title: Uncertain response of ocean biological carbon export in a changing world
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Stephanie A. Henson
+  - "Charlotte Laufk\xF6tter"
+  - Shirley Leung
+  - Sarah L. C. Giering
+  - Hilary I. Palevsky
+  - Emma L. Cavan
+  publisher: Nature Geoscience
+  date: '2022-04-01'
+  link: https://doi.org/gpx4x5
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/gcb.16019
+  title: Commercial fishery disturbance of the global ocean biological carbon sink
+  authors:
+  - Emma L. Cavan
+  - Simeon L. Hill
+  publisher: Global Change Biology
+  date: '2021-12-18'
+  link: https://doi.org/gnvwtz
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/lno.11971
+  title: "\u201CSinking dead\u201D\u2014How zooplankton carcasses contribute to particulate\
+    \ organic carbon flux in the subantarctic Southern Ocean"
+  authors:
+  - Svenja Halfter
+  - Emma L. Cavan
+  - Philip Butterworth
+  - Kerrie M. Swadling
+  - Philip W. Boyd
+  publisher: Limnology and Oceanography
+  date: '2021-11-07'
+  link: https://doi.org/gnpzrp
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2020GL091771
+  title: "Reconciling the Size\u2010Dependence of Marine Particle Sinking Speed"
+  authors:
+  - B. B. Cael
+  - Emma L. Cavan
+  - Gregory L. Britten
+  publisher: Geophysical Research Letters
+  date: '2021-03-06'
+  link: https://doi.org/gjqqw6
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.7119
+  title: Implications for the mesopelagic microbial gardening hypothesis as determined
+    by experimental fragmentation of Antarctic krill fecal pellets
+  authors:
+  - Emma L. Cavan
+  - So Kawaguchi
+  - Philip W. Boyd
+  publisher: Ecology and Evolution
+  date: '2020-12-28'
+  link: https://doi.org/gnw6hd
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.21.307462
+  title: Commercial fishery disturbance of the global open-ocean carbon sink
+  authors:
+  - E. L. Cavan
+  - S. L. Hill
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2020-09-23'
+  link: https://doi.org/gszr7d
+  orcid: 0000-0003-1099-6705
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1029/2018JG004392
+  title: Alternative Particle Formation Pathways in the Eastern Tropical North Pacific's
+    Biological Carbon Pump
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - E. L. Cavan
+  - S. L. C. Giering
+  - G. A. Wolff
+  - M. Trimmer
+  - R. Sanders
+  publisher: 'Journal of Geophysical Research: Biogeosciences'
+  date: '2018-07-01'
+  link: https://doi.org/gd7fwk
+  orcid: 0000-0003-1099-6705
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1002/2017GB005638
+  title: "Slow\u2010sinking particulate organic carbon in the Atlantic Ocean: Magnitude,\
+    \ flux, and potential controls"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Chelsey A. Baker
+  - Stephanie A. Henson
+  - Emma L. Cavan
+  - Sarah L. C. Giering
+  - Andrew Yool
+  - Marion Gehlen
+  - Anna Belcher
+  - Jennifer S. Riley
+  - Helen E. K. Smith
+  - Richard Sanders
+  publisher: Global Biogeochemical Cycles
+  date: '2017-07-01'
+  link: https://doi.org/b8v9
+  orcid: 0000-0003-1099-6705
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1038/ncomms14847
+  title: Remineralization of particulate organic carbon in an ocean oxygen minimum
+    zone
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - E. L. Cavan
+  - M. Trimmer
+  - F. Shelley
+  - R. Sanders
+  publisher: Nature Communications
+  date: '2017-03-21'
+  link: https://doi.org/gfb5px
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-14-177-2017
+  title: Role of zooplankton in determining the efficiency of the biological carbon
+    pump
+  authors:
+  - Emma L. Cavan
+  - Stephanie A. Henson
+  - Anna Belcher
+  - Richard Sanders
+  publisher: Biogeosciences
+  date: '2017-01-12'
+  link: https://doi.org/f9s4b3
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-2016-251-AC1
+  title: Response to Reviewer 1
+  authors:
+  - Emma Cavan
+  publisher: Copernicus GmbH
+  date: '2016-11-10'
+  link: https://doi.org/g7pt9q
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-2016-251-AC2
+  title: Response to Reviewer 2
+  authors:
+  - Emma Cavan
+  publisher: Copernicus GmbH
+  date: '2016-11-10'
+  link: https://doi.org/g7pt9t
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-2016-251
+  title: Role of zooplankton in determining the efficiency of the biological carbon
+    pump
+  authors:
+  - Emma L. Cavan
+  - Stephanie A. Henson
+  - Anna Belcher
+  - Richard Sanders
+  publisher: Copernicus GmbH
+  date: '2016-06-23'
+  link: https://doi.org/gcdpjd
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-2016-251-supplement
+  title: Supplementary material to &amp;quot;Role of zooplankton in determining the
+    efficiency of the biological carbon pump&amp;quot;
+  authors:
+  - Emma L. Cavan
+  - Stephanie A. Henson
+  - Anna Belcher
+  - Richard Sanders
+  publisher: Copernicus GmbH
+  date: '2016-06-23'
+  link: https://doi.org/g7pt9z
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/2016gl068480
+  title: What causes the inverse relationship between primary production and export
+    efficiency in the Southern Ocean?
+  authors:
+  - "Fr\xE9d\xE9ric A. C. Le Moigne"
+  - Stephanie A. Henson
+  - Emma Cavan
+  - "Cl\xE9ment Georges"
+  - Katsiaryna Pabortsava
+  - Eric P. Achterberg
+  - "Elena Ceballos\u2010Romero"
+  - Mike Zubkov
+  - Richard J. Sanders
+  publisher: Geophysical Research Letters
+  date: '2016-05-07'
+  link: https://doi.org/f8sgv6
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/2014gl062744
+  title: Attenuation of particulate organic carbon flux in the Scotia Sea, Southern
+    Ocean, is controlled by zooplankton fecal pellets
+  authors:
+  - E. L. Cavan
+  - F. A. C. Le Moigne
+  - A. J. Poulton
+  - G. A. Tarling
+  - P. Ward
+  - C. J. Daniels
+  - G. M. Fragoso
+  - R. J. Sanders
+  publisher: Geophysical Research Letters
+  date: '2015-02-09'
+  link: https://doi.org/ghvkr2
+  orcid: 0000-0003-1099-6705
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +376,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +392,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
