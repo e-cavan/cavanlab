@@ -9,12 +9,12 @@ nav:
 
 Meet the members of the team! All with a passion for the environment.
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
 
 ## Alumni
 
@@ -26,9 +26,9 @@ Gone but not forgotten!
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/IMG_0786.JPG" %}
+{% include figure.html image="images/IMG_0786.JPG" %}
+{% include figure.html image="images/krill.jpg" %}
 
 {% endcapture %}
 
