@@ -3,13 +3,14 @@
 
 # Carbon  |  Nature  |  Water  |  Poo
 
+{% include section.html %}
+
 {% capture text %}
 
 We are a team of researchers inspired by nature and drive by our desire to understand more about the natural world whilst protecting it. We combine biogeochemistry and ecology to discover what drives natural carbon sinks, and how climate change and human use might alter important natural cycles.
 
 {% endcapture %}
 
-{% include section.html %}
 
 {% capture content %}
 
