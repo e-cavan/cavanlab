@@ -11,7 +11,7 @@ Our group is based at Imperial College London, at the Silwood Park Campus in Ber
 
 {%
   include figure.html
-  image="images/ICL.png"
+  image="images/silwood.png"
   width="50" 
   height="25"
 %}
@@ -45,7 +45,7 @@ Our group is based at Imperial College London, at the Silwood Park Campus in Ber
 
 {%
   include figure.html
-  image="images/DOSI.jpg"
+  image="images/bbb_day.jpg"
 %}
 
 {% endcapture %}
