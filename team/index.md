@@ -16,7 +16,7 @@ Meet the members of the team! All with a passion for the environment.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-##Alumni
+## Alumni
 
 Gone but not forgotten!
 
