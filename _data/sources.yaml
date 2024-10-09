@@ -1,5 +1,3 @@
-# use this with -id from citstions.yaml to manually edit citations and add images
-
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
