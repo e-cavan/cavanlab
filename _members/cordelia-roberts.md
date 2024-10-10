@@ -1,5 +1,5 @@
 ---
-name: Cordelia Robinson
+name: Cordelia Roberts
 image: images/RS5277_Cordelia-Roberts-2-alt-1536x1024.jpg
 description: Postdoc
 role: postdoc
