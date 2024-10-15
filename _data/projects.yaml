@@ -8,19 +8,18 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Enhanced Rock Weathering in rivers
+  subtitle: A NERC funded project
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/river.jpg
+  link: https://www.birmingham.ac.uk/research/activity/ecolaboratory
+  description: Working in collaboration with the University of Birmingham, this project aims to understand how the addition of basalt to land in enhanced rock weathering (ERW) schemes alters river ecology, and whether ERW does result in additional ions passing through a river to final storage in the ocean.
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Carbon sequestration by Antarctic krill and salps
+  subtitle: A WWF funded project
+  image: images/IMG_1666.JPG
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
