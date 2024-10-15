@@ -35,9 +35,9 @@ See our most recent publications
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/krill_paper.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
