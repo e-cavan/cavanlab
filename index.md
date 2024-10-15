@@ -20,35 +20,12 @@ We are a team of researchers inspired by nature and driven by our desire to unde
 
 {% capture text %}
 
-See our most recent publications
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/krill_paper.jpg"
-  link="research"
-  title="Our Publications"
-  text=text
-%}
-
-{% capture text %}
-
 Find out about current funded projects (content under development)
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -58,7 +35,7 @@ Find out about current funded projects (content under development)
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_2551.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -83,8 +60,31 @@ Meet the team!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_1606.jpg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+See our most recent publications
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/krill_paper.jpg"
+  link="research"
+  title="Our Publications"
   text=text
 %}
