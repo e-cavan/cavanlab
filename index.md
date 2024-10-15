@@ -86,5 +86,7 @@ See our most recent publications
   image="images/krill_paper.png"
   link="research"
   title="Our Publications"
+  flip=true
+  style="bare"
   text=text
 %}
