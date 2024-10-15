@@ -3,6 +3,7 @@ name: Cordelia Roberts
 image: images/RS5277_Cordelia-Roberts-2-alt-1536x1024.jpg
 description: Postdoc
 role: postdoc
+affiliation: Imperial College London
 links:
   email: c.roberts@imperial.ac.uk
 ---
