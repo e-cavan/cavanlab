@@ -4,7 +4,6 @@
   image: images/IMG_2115.jpg
   link: https://bio-carbon.ac.uk/node/33
   description: The PARTITRICS project aims to improve understanding of the processes that affect the rate and depth of respiration in sinking particles.
-  repo: greenelab/lab-website-template
   tags:
     - resource
 
@@ -22,7 +21,6 @@
   image: images/IMG_1666.JPG
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
@@ -32,5 +30,4 @@
   image: images/IMG_2194.JPG
   link: https://sea-quester.eu/#
   description: SEA-Quester is investigating marine carbon cycling in novel ecosystems in the polar seas that are emerging due to climate change. 
-  repo: greenelab/lab-website-template
 
