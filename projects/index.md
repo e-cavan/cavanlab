@@ -8,8 +8,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
