@@ -12,15 +12,14 @@
   group: featured
   image: images/river.jpg
   link: https://www.birmingham.ac.uk/research/activity/ecolaboratory
-  description: Working in collaboration with the University of Birmingham, this project aims to understand how the addition of basalt to land in enhanced rock weathering (ERW) schemes alters river ecology, and whether ERW does result in additional ions passing through a river to final storage in the ocean.
+  description: Working in collaboration with the University of Birmingham, this project aims to understand how the addition of basalt to land during enhanced rock weathering (ERW) schemes alters river ecology, and whether ERW results in additional ions passing through a river to final storage in the ocean.
 
 
 - title: Carbon sequestration by Antarctic krill and salps
   subtitle: A WWF funded project
   image: images/IMG_1666.JPG
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+  description: Investigating how much carbon krill and salps store in the Southern Ocean, including larval stages, moults, carcasses, migrations, as well as faecal pellets.
 
 - title: Polar blue carbon
   subtitle: Sea-Quester - ERC funded
