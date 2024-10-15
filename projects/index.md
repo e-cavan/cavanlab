@@ -7,7 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
-Content under development!
 
 {% include tags.html tags="publication, resource, website" %}
 

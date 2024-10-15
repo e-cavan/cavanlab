@@ -20,7 +20,7 @@ We are a team of researchers inspired by nature and driven by our desire to unde
 
 {% capture text %}
 
-Find out about current funded projects (content under development)
+Find out about current funded projects
 
 {%
   include button.html
@@ -51,7 +51,7 @@ Meet the team!
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
