@@ -35,7 +35,7 @@ Find out about current funded projects (content under development)
 
 {%
   include feature.html
-  image="images/IMG_2551.jpg"
+  image="images/IMG_2551.JPG"
   link="projects"
   title="Our Projects"
   flip=true
@@ -60,7 +60,7 @@ Meet the team!
 
 {%
   include feature.html
-  image="images/IMG_1606.jpg"
+  image="images/IMG_1606.JPG"
   link="team"
   title="Our Team"
   text=text
@@ -83,7 +83,7 @@ See our most recent publications
 
 {%
   include feature.html
-  image="images/krill_paper.jpg"
+  image="images/krill_paper.png"
   link="research"
   title="Our Publications"
   text=text
