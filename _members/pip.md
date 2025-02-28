@@ -1,7 +1,7 @@
 ---
 name: Philippa Birchenall
 image: images/pip.jpg
-role: phd
+role: ra
 affiliation: Imperial College London
 ---
 
