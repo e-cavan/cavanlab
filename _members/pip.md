@@ -1,0 +1,14 @@
+---
+name: Philippa Birchenall
+image: images/pip.jpg
+role: phd
+affiliation: Imperial College London
+---
+
+Research Assistant working on WWF Krill Salp Carbon project, joined the group in January. Previously involved in Southern Ocean microplastic research with the British Antarctic Survey (CUPIDO), investigating the vertical distribution of microplastics across the Scotia Sea; the role of zooplankton in the flux of microplastics; and Sea-Surface microplastic distributions around the South Sandwich Islands. 
+
+**Key Interests:**
+Polar Ocean Ecology
+Zooplankton
+Biogeochemistry
+Pollution
