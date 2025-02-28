@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s43017-024-00633-y
+  title: Biogeochemical consequences of marine fisheries and aquaculture
+  authors:
+  - Nicholas E. Ray
+  - Stefano Bonaglia
+  - Emma L. Cavan
+  - Fernanda G. Sampaio
+  - Jessica A. Gephart
+  - Jenny R. Hillman
+  - Sara Hornborg
+  - Sarah Paradis
+  - Colleen M. Petrik
+  - Justin Tiano
+  - Junji Yuan
+  publisher: Nature Reviews Earth &amp; Environment
+  date: '2025-02-18'
+  link: https://doi.org/g86pfz
+  orcid: 0000-0003-1099-6705
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-024-52135-6
   title: Antarctic krill sequester similar amounts of carbon to key coastal blue carbon
     habitats
@@ -314,8 +334,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5194/bg-2016-251-supplement
-  title: Supplementary material to &amp;quot;Role of zooplankton in determining the
-    efficiency of the biological carbon pump&amp;quot;
+  title: Supplementary material to "Role of zooplankton in determining the efficiency
+    of the biological carbon pump"
   authors:
   - Emma L. Cavan
   - Stephanie A. Henson
