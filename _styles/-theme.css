@@ -1,12 +1,4 @@
-<<<<<<< HEAD:_styles/-theme.css
 [data-dark=false] {
-=======
----
----
-
-// colors
-[data-dark="false"] {
->>>>>>> origin/main:_styles/-theme.scss
   --primary: #277F8EFF;
   --secondary: #7dd3fc;
   --text: #000000;
@@ -17,12 +9,8 @@
   --dark-gray: #404040;
   --overlay: #00000020;
 }
-<<<<<<< HEAD:_styles/-theme.css
 
 [data-dark=true] {
-=======
-[data-dark="true"] {
->>>>>>> origin/main:_styles/-theme.scss
   --primary: #277F8EFF;
   --secondary: #075985;
   --text: #ffffff;
