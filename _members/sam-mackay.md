@@ -1,7 +1,7 @@
 ---
 name: Sam Mackay
 image: images/Sam_Macaulay_profile.jpg
-role: ra
+role: postdoc
 affiliation: Imperial College London
 ---
 
