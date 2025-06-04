@@ -1,6 +1,7 @@
 ---
 name: Sam Macaulay
 image: images/Sam_Macaulay_profile.jpg
+description: Postdoc
 role: postdoc
 affiliation: Imperial College London
 ---
