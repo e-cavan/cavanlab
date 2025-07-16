@@ -1,5 +1,5 @@
 [data-dark=false] {
-  --primary: rgb(74, 244, 32);
+  --primary: rgb(138, 32, 244);
   --secondary: #7dd3fc;
   --text: #000000;
   --background: rgb(243, 242, 235);
@@ -11,7 +11,7 @@
 }
 
 [data-dark=true] {
-  --primary: rgb(77, 28, 202);
+  --primary: rgb(28, 202, 164);
   --secondary: #075985;
   --text: #ffffff;
   --background: rgb(53, 127, 225);
