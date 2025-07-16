@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Find out the latest in what the group have been up to.
+Find out the latest in research and science activities we have been up to!
 
 
 {% include section.html %}
