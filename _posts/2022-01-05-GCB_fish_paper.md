@@ -2,8 +2,8 @@
 layout: post
 title: New paper - Industrial fishing on carbon sink
 image: 
-    path: /Images/GCB_fish.png
-    thumbnail: /Images/GCB_fish.png
+    path: images/GCB_fish.png
+    thumbnail: images/GCB_fish.png
     caption: Schematic showing some of the ways fishing could impact carbon sink
 ---
 

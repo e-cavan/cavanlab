@@ -2,8 +2,8 @@
 layout: post
 title: Emma gives OCB online seminar
 image: 
-    path: /Images/OCB_seminar.png
-    thumbnail: /Images/OCB_seminar.png
+    path: images/OCB_seminar.png
+    thumbnail: images/OCB_seminar.png
     caption: Title slide of talk. 
 entries_layout: grid
 ---

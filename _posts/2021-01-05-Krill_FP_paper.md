@@ -2,8 +2,8 @@
 layout: post
 title: New paper - Microbial gardening on krill faecal pellets
 image: 
-    path: /Images/Krill_FP_microbe_garden.png
-    thumbnail: /Images/Krill_FP_microbe_garden.png
+    path: images/Krill_FP_microbe_garden.png
+    thumbnail: images/Krill_FP_microbe_garden.png
     caption: Microbial gardening processes
 ---
 
