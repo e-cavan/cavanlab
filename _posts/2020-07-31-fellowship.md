@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Research Fellow position started
-image: 
-    path: images/E2E_krill_white.png
-    thumbnail: images/E2E_krill_white.png
-    caption: Schematic of numerical model structure. 
+image: images/E2E_krill_white.png
+thumbnail: images/E2E_krill_white.png
+caption: Schematic of numerical model structure. 
 entries_layout: grid
 ---
 

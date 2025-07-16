@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Three funding announcements for the Cavan group!
-image: 
-    path: images/nerc.png
-    thumbnail: images/nerc.png
+image: images/nerc.png
+thumbnail: images/nerc.png
 ---
 
 July has been a bumper month in funding to support the Cavan research group in driving forward research on the ocean carbon cycle. In the next 6 months three new projects will start (and excitingly 3 post-doc positions will be available), two of which were funded by [NERC](https://www.ukri.org/councils/nerc/) and the third by [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en).

@@ -1,6 +1,7 @@
 ---
 title: BES policy committee member
 image: images/BES_policy.png
+thumbnail: images/BES_policy.png
 caption: Front cover of The Niche (Summer 2020)
 ---
 
