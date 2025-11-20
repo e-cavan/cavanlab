@@ -1,7 +1,7 @@
 ---
 name: Sean Chen
 image: images/Sean.png
-role: Postdoc
+role: postdoc
 affiliation: Imperial College London
 ---
 

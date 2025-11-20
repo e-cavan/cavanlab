@@ -5,7 +5,7 @@
   description: The PARTITRICS project aims to improve understanding of the processes that affect the rate and depth of respiration in sinking particles.
   
 - title: Polar blue carbon
-  subtitle: Sea-Quester - ERC funded
+  subtitle: Sea-Quester - Horizon Europe funded
   group: featured
   image: images/ice2.jpg
   link: https://sea-quester.eu/#
@@ -26,3 +26,8 @@
   link: https://www.nature.com/articles/s41467-024-52135-6
   description: Investigating how much carbon krill and salps store in the Southern Ocean, including larval stages, moults, carcasses, migrations, as well as faecal pellets.
 
+- title: SeaStore - Benthic trawling release of carbon
+  subtitle: A UKRI funded project
+  image: images/benthic.jpg
+  link: https://gtr.ukri.org/projects?ref=NE%2FZ503770%2F1 
+  description: Led by Bangor University, this project aims to understand the full impact of benthic trawling on ocean carbon stores. Our role is to assess what happens to resuspended C in the pelagic water column.
