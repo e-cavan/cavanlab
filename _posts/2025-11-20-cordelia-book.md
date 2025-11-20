@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Featured article in The Niche magazine
-image: images/BES_TheNiche_Thumbnail.png
-thumbnail: images/BES_TheNiche_Thumbnail.png
-caption: Front cover of The Niche (Summer 2020)
+title: Cordelia co-authors marine microbial textbook!
+image: images/cord_book.jpg
+thumbnail: images/cord_book.jpg
+caption: Front cover
 ---
 
-An Feature Article on the super-powers of krill, based on this [Nature Communications paper (Cavan et al. 2019)](https://www.nature.com/articles/s41467-019-12668-7), was published in the British Ecology Society's ['The Niche'](https://www.britishecologicalsociety.org/membership-community/the-niche/) magazine summer edition. It even made the front cover!
+Cordelia has co-authored the 4th addition of the Marine Microbiology text book! This is a huge achievement. Congratulations Cordelia! You can order a copy of the book here - [Marine Microbiology](https://www.routledge.com/Marine-Microbiology-Ecology--Applications/Munn-Priest-Roberts-Seymour-Warwick-Dugdale-Zettler/p/book/9781032850887)
 
 
 <figure>
-<img src="/Images/BES_TheNiche_Summer_2020.png" style="float: right;" width = "300" height = "600" alt="" >
-    <figcaption>Cover of The Niche magazine, summer 2020</figcaption>
+<img src="/Images/cord_book.jpg" style="float: right;" width = "300" height = "600" alt="" >
+    <figcaption>Cover</figcaption>
 </figure>
